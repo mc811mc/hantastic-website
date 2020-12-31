@@ -17,7 +17,16 @@ function HeroSection() {
         >
           들어가기
         </Button>
-        <Button
+      </div>
+    </div>
+  );
+}
+
+export default HeroSection;
+
+
+/* 
+<Button
           className='btns'
           buttonStyle='btn--primary'
           buttonSize='btn--large'
@@ -25,9 +34,4 @@ function HeroSection() {
         >
           영상 보기 <i className='far fa-play-circle' />
         </Button>
-      </div>
-    </div>
-  );
-}
-
-export default HeroSection;
+*/
