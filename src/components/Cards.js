@@ -16,6 +16,8 @@ function Cards() {
               label='한국'
               path='/services'
             />
+          </ul>
+          <ul className='cards__items'>
             <CardItem
               src='images/main_page_3.jpg'
               text='하늘에서 본 발리'
@@ -30,6 +32,8 @@ function Cards() {
               label='한국'
               path='/products'
             />
+          </ul>
+          <ul className='cards__items'>
             <CardItem
               src='images/main_page_5.jpg'
               text='철원의 겨울'
